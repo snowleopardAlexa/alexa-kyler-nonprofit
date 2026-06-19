@@ -53,11 +53,11 @@ export const DATA = {
   summary:
     `I'm a communications and digital strategist with 6+ years of experience building content, campaigns, and brand storytelling for 
     mission-driven organizations, animal welfare nonprofits, and conservation-focused work. My background spans web and CMS 
-    development, social media strategy, email campaigns, and donor/audience engagement — but at the core, I'm a storyteller first. 
-    I founded Cat Connections NYC and raised $18,000+ in under five months through organic, story-driven campaigns. I run Wildari 
+    development, social media strategy, email campaigns, fundraising, and donor/audience engagement — but at the core, I'm a storyteller first. 
+    I raised $18,000+ for Cat Connections NYC in under five months through organic, story-driven campaigns. I run Wildari 
     Planet, an independent wildlife education platform, because conservation storytelling isn't just my job — it's something 
     I do out of genuine love for animals and the natural world. I bring a rare combination: the technical skill to build 
-    and manage the digital infrastructure (websites, CMS, CRM, email systems, ) and the creative instinct to make people stop scrolling 
+    and manage the digital infrastructure (websites, CMS, CRM, email systems) and the creative instinct to make people stop scrolling 
     and feel something. I've led end-to-end projects for nonprofits and mission-driven organizations, and I don't just execute — 
     I help shape the story and make sure it lands.`,
   avatarUrl: "/nonprofit.png",
